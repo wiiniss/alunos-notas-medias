@@ -10,8 +10,8 @@ O sistema funciona através do terminal e permite realizar operações básicas 
 * Cadastrar alunos
 * Listar alunos cadastrados
 * Buscar aluno pelo nome
-* Validar notas entre 0 e 10
-* Armazenar informações de nome, idade e nota
+* Remover aluno
+* Armazenar informações de nome, idade e nota (até o momento apenas em memória, mas futuramente tentarei adicionar banco de dados)
 * Menu interativo através do terminal
 
 ## 🛠️ Tecnologias utilizadas
